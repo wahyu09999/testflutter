@@ -99,7 +99,9 @@ class _MyHomePageState extends State<MyHomePage> {
               'Nama : Wahyu Rizky Akbari \n'
               'NIM : 2041720191 \n' 
               'Kelas : TI-3G \n'
-              'Absen : 27'
+              'Absen : 27 \n'
+
+
               ,
             ),
             Text(
